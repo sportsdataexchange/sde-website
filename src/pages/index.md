@@ -6,9 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Sports Analytics and predictions
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Sports Data Exchange provides aggregated data and prediction analysis for
+      the sports you love
     actions:
       - label: Learn More
         url: /features
